@@ -12,6 +12,11 @@ export default {
         ]
       },
       {
+        name: 'about_us_heading',
+        title: 'About Us Heading',
+        type: 'string'
+      },
+      {
         name: 'about_us_image',
         title: 'About Us Image',
         type: 'image',
